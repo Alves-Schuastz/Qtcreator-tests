@@ -1,0 +1,26 @@
+# QtCreator specific
+
+*.creator.user
+*.fileList
+*.user
+*.pro.user
+*.pro.user.*
+*.Debug
+*.Release
+*.o
+.qmake.stash
+.qtc_clangd/
+Makefile
+Makefile.Debug
+Makefile.Release
+
+# QML
+
+*.qmltypes
+*_metatypes.json
+*_qmltyperegistrations.cpp
+qrc_qml.cpp
+
+# Build directory
+build/
+

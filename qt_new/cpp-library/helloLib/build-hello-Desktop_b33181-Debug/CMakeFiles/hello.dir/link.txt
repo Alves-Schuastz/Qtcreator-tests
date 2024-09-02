@@ -1,0 +1,1 @@
+/usr/lib/ccache/g++ -fPIC -DQT_QML_DEBUG -g -shared -Wl,-soname,libhello.so -o libhello.so CMakeFiles/hello.dir/hello_autogen/mocs_compilation.cpp.o CMakeFiles/hello.dir/hello.cpp.o  -Wl,-rpath,/home/jorgeschuastz/Qt/5.15.4/gcc_64/lib: /home/jorgeschuastz/Qt/5.15.4/gcc_64/lib/libQt5Core.so.5.15.4 

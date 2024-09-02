@@ -1,0 +1,8 @@
+/home/jorgeschuastz/treinamento/ATV1/jorge-schuastz/qt_new/cpp-libiry/helloLib/hello/build-teste-Desktop_b33181-Debug/CMakeFiles/teste.dir
+/home/jorgeschuastz/treinamento/ATV1/jorge-schuastz/qt_new/cpp-libiry/helloLib/hello/build-teste-Desktop_b33181-Debug/CMakeFiles/edit_cache.dir
+/home/jorgeschuastz/treinamento/ATV1/jorge-schuastz/qt_new/cpp-libiry/helloLib/hello/build-teste-Desktop_b33181-Debug/CMakeFiles/rebuild_cache.dir
+/home/jorgeschuastz/treinamento/ATV1/jorge-schuastz/qt_new/cpp-libiry/helloLib/hello/build-teste-Desktop_b33181-Debug/CMakeFiles/list_install_components.dir
+/home/jorgeschuastz/treinamento/ATV1/jorge-schuastz/qt_new/cpp-libiry/helloLib/hello/build-teste-Desktop_b33181-Debug/CMakeFiles/install.dir
+/home/jorgeschuastz/treinamento/ATV1/jorge-schuastz/qt_new/cpp-libiry/helloLib/hello/build-teste-Desktop_b33181-Debug/CMakeFiles/install/local.dir
+/home/jorgeschuastz/treinamento/ATV1/jorge-schuastz/qt_new/cpp-libiry/helloLib/hello/build-teste-Desktop_b33181-Debug/CMakeFiles/install/strip.dir
+/home/jorgeschuastz/treinamento/ATV1/jorge-schuastz/qt_new/cpp-libiry/helloLib/hello/build-teste-Desktop_b33181-Debug/CMakeFiles/teste_autogen.dir

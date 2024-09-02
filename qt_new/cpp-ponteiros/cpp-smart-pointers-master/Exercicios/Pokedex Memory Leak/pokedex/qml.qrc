@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/PokemonCard.qml</file>
+        <file>components/Loading.qml</file>
+        <file>components/LoadingForm.ui.qml</file>
+        <file>components/PokemonCardDetailsForm.ui.qml</file>
+        <file>components/PokemonCardDetails.qml</file>
+        <file>components/PopupManager.qml</file>
+        <file>components/theme/Colors.qml</file>
+        <file>components/theme/qmldir</file>
+        <file>components/Header.qml</file>
+        <file>components/Footer.qml</file>
+        <file>components/theme/Metrics.qml</file>
+        <file>components/theme/Fonts.qml</file>
+        <file>components/FiltersRow.qml</file>
+        <file>resources/images/pokeball.png</file>
+    </qresource>
+</RCC>
